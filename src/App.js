@@ -15,6 +15,7 @@ function App() {
       <Button>Delete Todo</Button>
       <Button>App Todo</Button>
       <Button>Add List</Button>
+      <Button>Delete</Button>
       <StudentList students={studentList}/>
       {/* StudentList(studentList) */}
     </div>
